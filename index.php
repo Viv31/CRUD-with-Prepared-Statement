@@ -3,7 +3,9 @@ include_once('inc/header.php');
 include_once('conn/connection.php'); ?>
 <div class="row">
 
+
 <h2>Users</h2>
+ <a href="add_user.php" class="btn btn-primary pull-right">Add User</a>
   <table class="table">
     <thead>
       <tr>
