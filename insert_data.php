@@ -85,21 +85,5 @@ $insert_data->close();
 $conn->close();
 
  }
-
-}
-}
-
-
+}}
 ?>
-
-
-
-
-
-
-
-
-
-
-
-	
